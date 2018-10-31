@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidCodingTask</string>
+
+    <string name="title_activity_main">Posts</string>
+    <string name="title_activity_comments">Comments</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="title">title</string>
+    <string name="email">themail@email.com</string>
+    <string name="wait">Wait a moment</string>
+    <string name="error">Error</string>
+    <string name="getting_comments">Getting comments</string>
+
+</resources>
